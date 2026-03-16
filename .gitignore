@@ -2,3 +2,9 @@
 
 node_modules
 dist
+.vercel
+.env*.local
+.env
+.env.local
+node_modules
+dist
